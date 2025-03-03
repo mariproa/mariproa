@@ -37,6 +37,4 @@ I'm a **Full Stack Developer** passionate about building robust and scalable web
 
 📧 **Email**: [marisabelproano@gmail.com](mailto:marisabelproano@gmail.com)
 
-Feel free to check out my repositories, and don't hesitate to reach out if you'd like to collaborate on any project. I'm always excited about new challenges
-
 Feel free to check out my repositories and feel free to reach out if you'd like to collaborate on any project! I'm always excited about new challenges.
