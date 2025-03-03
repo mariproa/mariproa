@@ -5,9 +5,7 @@
 ## Technologies I Use:
 
 ### Frontend:
-- HTML
-- CSS
-- JavaScript
+- HTML - CSS - JavaScript
 - TypeScript
 - React
 
