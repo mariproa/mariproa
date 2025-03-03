@@ -1,6 +1,6 @@
 # Hi, I'm María Isabel Proaño 👋
 
-I'm a **Full Stack Developer** passionate about building robust and scalable web applications. I enjoy working with both frontend and backend technologies, constantly learning and growing in the ever-evolving world of web development. 🚀
+## I'm a **Full Stack Developer** passionate about building robust and scalable web applications. I enjoy working with both frontend and backend technologies, constantly learning and growing in the ever-evolving world of web development. 🚀
 
 ## Technologies I Use:
 
