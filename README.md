@@ -37,9 +37,9 @@
 
 Here are some of the web pages I've built:
 
-- <a href="https://www.fimcm.espol.edu.ec/es/carreras-de-grado/acuicultura" target="_blank">
-- <a href="https://www.fcv.espol.edu.ec/es" target="_blank">
-- <a href="https://www.fiec.espol.edu.ec/es/personal-docente" target="_blank">
+- <a href="https://www.fimcm.espol.edu.ec/es/carreras-de-grado/acuicultura" target="_blank">https://www.fimcm.espol.edu.ec/es/carreras-de-grado/acuicultura</a>
+- <a href="https://www.fcv.espol.edu.ec/es" target="_blank">https://www.fcv.espol.edu.ec/es</a>
+- <a href="https://www.fiec.espol.edu.ec/es/personal-docente" target="_blank">https://www.fiec.espol.edu.ec/es/personal-docente</a>
 
 ## 💬 Let's Connect!
 
