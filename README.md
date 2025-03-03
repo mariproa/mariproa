@@ -33,6 +33,15 @@
 - Node.JS
 - Java
 
+## 💻 Projects
+
+Here are some of the web pages I've built:
+
+- https://www.fimcm.espol.edu.ec/es/carreras-de-grado/acuicultura
+- https://www.fcv.espol.edu.ec/es
+- https://www.fiec.espol.edu.ec/es/personal-docente
+- 
+
 ## 💬 Let's Connect!
 
 📧 **Email**: [marisabelproano@gmail.com](mailto:marisabelproano@gmail.com)
