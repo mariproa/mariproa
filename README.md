@@ -5,23 +5,23 @@
 ## Technologies I Use:
 
 ### Frontend:
-#### - HTML, CSS, Sass, JavaScript, TypeScript, React
+#### - HTML - CSS - Sass - JavaScript - TypeScript - React
 
 ### Backend:
-- Python, Django
+#### Python - Django
 
 ### Databases:
-- MySQL
+#### MySQL
 
 ### Version Control:
-- Git, GitHub
+#### Git - GitHub
 
 ## 🌱 Currently Learning:
-- Astro, Angular, Vue JS, Rust, Go, Node.JS, Java
+#### Astro - Angular - Vue JS - Rust - Go - Node.JS - Java
 
 ## 💻 Projects
 
-Here are some of the web pages I've built:
+#### Here are some of the web pages I've built:
 
 - https://www.fimcm.espol.edu.ec/es/carreras-de-grado/acuicultura
 - https://www.fcv.espol.edu.ec/es
@@ -31,4 +31,4 @@ Here are some of the web pages I've built:
 
 📧 **Email**: [marisabelproano@gmail.com](mailto:marisabelproano@gmail.com)
 
-Feel free to check out my repositories and feel free to reach out if you'd like to collaborate on any project! I'm always excited about new challenges.
+#### Feel free to check out my repositories and feel free to reach out if you'd like to collaborate on any project! I'm always excited about new challenges.
