@@ -5,7 +5,7 @@
 ## Technologies I Use:
 
 ### Frontend:
-- HTML, CSS, Sass, JavaScript, TypeScript, React
+#### - HTML, CSS, Sass, JavaScript, TypeScript, React
 
 ### Backend:
 - Python, Django
