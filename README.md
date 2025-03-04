@@ -5,19 +5,19 @@
 ## Technologies I Use:
 
 ### Frontend:
-#### - HTML - CSS - Sass - JavaScript - TypeScript - React
+#### - HTML - CSS - Sass - JavaScript - TypeScript - React -
 
 ### Backend:
-#### Python - Django
+#### - Python - Django -
 
 ### Databases:
-#### MySQL
+#### - MySQL -
 
 ### Version Control:
-#### Git - GitHub
+#### - Git - GitHub -
 
 ## 🌱 Currently Learning:
-#### Astro - Angular - Vue JS - Rust - Go - Node.JS - Java
+#### - Astro - Angular - Vue JS - Rust - Go - Node.JS - Java -
 
 ## 💻 Projects
 
